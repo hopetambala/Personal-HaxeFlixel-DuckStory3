@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"name": "Platformer_1",
+			"path": "/Users/macBala/Documents/Games/Platformer_1"
+		},
+		{
+			"name": "Flixel",
+			"path": "/Users/macBala/Documents/Haxe.Flixel.OpenFL/flixel/3,3,4"
+		},
+		{
+			"name": "Flixel Addons",
+			"path": "/Users/macBala/Documents/Haxe.Flixel.OpenFL/flixel-addons/1,1,0"
+		},
+		{
+			"name": "Haxe",
+			"path": "/usr/lib/haxe/std"
+		},
+		{
+			"path": "/Users/APPLE/Documents/devGame/Wubbles copy/source"
+		},
+		{
+			"path": "/Users/APPLE/Documents/devGame/Wubbles copy/assets"
+		}
+	]
+}
