@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"F",
+				"FLOOR"
+			],
+			[
+				"D",
+				"DPAD_RIGHT"
+			],
+			[
+				"X",
+				"X_BUTTON"
+			],
+			[
+				"ps",
+				"PS3ButtonID"
+			],
+			[
+				"P",
+				"PS3ButtonID"
+			],
+			[
+				"is",
+				"isTouching"
+			],
+			[
+				"Flx",
+				"FlxObject"
+			],
+			[
+				"FlxC",
+				"FlxCamera"
+			],
+			[
+				"Map",
+				"mapHits3"
+			],
+			[
+				"map",
+				"mapHits3"
+			],
+			[
+				"roo",
+				"roomzandshiz"
+			],
+			[
+				"r",
+				"roomzandshiz"
+			],
+			[
+				"new",
+				"newRoom"
+			],
+			[
+				"whi",
+				"WHITE"
+			],
+			[
+				"y",
+				"y_offset"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "source/PlayState.hx",
+			"settings":
+			{
+				"buffer_size": 1753,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/Player.hx",
+			"settings":
+			{
+				"buffer_size": 4745,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/macBala/Documents/Games/Platformer_1/source/Player.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/Project.xml",
+		"/Users/macBala/Documents/Games/Platformer_1/source/PS3ButtonID.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/source/ps3Controller.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/source/PlayState.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/source/Main.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/assets/experim1.csv",
+		"/Users/macBala/Documents/Games/Platformer_1/assets/mapHits2.csv",
+		"/Users/macBala/Documents/Games/Platformer_1/source/DoorTile.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/source/Room.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/source/BaseLevel.hx",
+		"/Users/macBala/Documents/Games/Platformer_1/assets/mapDoor2.csv",
+		"/Users/macBala/Documents/Games/Platformer_1/assets/mapDoor1.csv",
+		"/Users/macBala/Documents/Games/Platformer_1/Platformer_1.sublime-project",
+		"/Users/macBala/Documents/Games/Platformer_1/assets/mapHits.csv",
+		"/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/QSTK-0.2.6-py2.7.egg/QSTK/__init__.py",
+		"/Users/macBala/Documents/Informatics/CompInvesting/QuantSoftwareToolkit-master/bin/__init__.py",
+		"/Users/macBala/Documents/Programs/learnHaxeFlixel/HelloWorld.xml",
+		"/Users/macBala/hi",
+		"/Users/macBala/Documents/MCAT/Examkrackers MCAT Complete Study Package/MCAT Audio Osmosis",
+		"/Users/macBala/Documents/Informatics/ChemParser/chemparser_funcs.pyc",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-02-Doors.txt",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-02-Loot.txt",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-02-Walls.txt",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-01-Doors.txt",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-01-Loot.txt",
+		"/Users/macBala/Documents/Project Luther/untitled folder/Map-01-Walls.txt",
+		"/Users/macBala/Downloads/Building a retro Flash game in Flixel Part 2/Nutmeg Part 3 - Final Game/src/PlayState.as"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"haxedef",
+			"touching",
+			"Boolean",
+			"public"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source/PlayState.hx",
+					"settings":
+					{
+						"buffer_size": 1753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "source/Player.hx",
+					"settings":
+					{
+						"buffer_size": 4745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3725,
+								3725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ActionScript/ActionScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 254.0,
+						"translation.y": 1052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

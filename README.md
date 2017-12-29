@@ -1,7 +1,5 @@
-# Personal-HaxeFlixel-DuckStory3
+Projects I made back in 2014 to get my feet wet. Emailed Terry Cavanagh and he suggested just jumping in with Flixel or Flashpunk. Really inspiring to get a response from someone who made the famous Super Hexagon, game I loved. 
 
-Lol really crappy game I made for an Art Project in 2014 using Haxeflixel. Platformer with Sprint and Wall Jump.
-Plays the Duck Song haha
-https://youtu.be/MtN1YnoL46Q
+These projects suck haha DuckStory3 is the most complete. 
 
-Great stepping stone into learning about Game Development
+I've since moved on to LOVE2D for gameprototyping but these were great first steps.
